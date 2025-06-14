@@ -1,4 +1,4 @@
-# Circuit Robot: An SO-ARM100 robotic arm that is trained to connect circuits. 
+# Circuit Robot: An SO-ARM100 robotic arm that is trained to connect circuits
 
 <img width="529" alt="Screenshot 2025-06-14 at 12 57 18 PM" src="https://github.com/user-attachments/assets/fadaff8a-77a4-4aa3-b0ec-5e1f7b7cfa5d" />
 
