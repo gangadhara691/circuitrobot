@@ -14,9 +14,14 @@ We present an open-source dataset to train the SO-ARM100 robotic arm from Huggin
 - **Drop Battery** Arm picks up and drops a battery into a power source.
 - **Turn on LED** Arm connects power to LED lightbulb to switch on
 
+## Circuit Structure 
+Circuit name: Osoyoo Kids Science Lab Learning Kit: https://osoyoo.com/2018/08/22/user-manual-of-children-science-lab-learning-kit/
+**Battery Source**
+![IMG_6375](https://github.com/user-attachments/assets/4af302b8-6616-45b0-9a85-f0610fdb65e5)
+**LED Lightbulb**
+![IMG_6376](https://github.com/user-attachments/assets/8c1932b2-82aa-4066-9f72-8c4ff3336e6e)
 
 
-## Notes
-Circuit name: Osoyoo Kids Science Lab Learning Kit 
-https://osoyoo.com/2018/08/22/user-manual-of-children-science-lab-learning-kit/
+
+
 
