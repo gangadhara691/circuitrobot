@@ -15,7 +15,7 @@ We present an open-source dataset to train the SO-ARM100 robotic arm from Huggin
 
 ## Datasets
 - **Alligator Clips:** https://huggingface.co/datasets/Techiiot/pick_allegator_battery_final_v4
-- **Battery Placement:** https://huggingface.co/ronantakizawa/battery-placement
+- **Battery Placement:** https://huggingface.co/datasets/hildieleyser/insert-battery
 
 ## Models
 - **Alligator Clips:** https://huggingface.co/Ganga008/allegator_place_orange
