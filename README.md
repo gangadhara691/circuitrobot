@@ -14,8 +14,8 @@ We present an open-source dataset to train the SO-ARM100 robotic arm from Huggin
 - **Turn on LED:** Arm connects power to LED lightbulb to switch on
 
 ## Datasets
-- **Alligator Clips:** https://huggingface.co/datasets/Techiiot/pick_allegator_battery_final_v4
-- **Battery Placement:** https://huggingface.co/datasets/hildieleyser/insert-battery
+- **Alligator Clips:** https://huggingface.co/datasets/LeRobot-worldwide-hackathon/141-Electrify-open_alligator
+- **Battery Placement:** https://huggingface.co/datasets/LeRobot-worldwide-hackathon/141-Electrify-insertbattery
 
 ## Models
 - **Alligator Clips:** https://huggingface.co/Ganga008/allegator_place_orange
