@@ -17,6 +17,10 @@ We present an open-source dataset to train the SO-ARM100 robotic arm from Huggin
 - **Alligator Clips:** [Arm picks up and opens alligator clips ](https://huggingface.co/datasets/Techiiot/pick_allegator_battery)
 - **Battery Placement:** https://huggingface.co/ronantakizawa/battery-placement
 
+## Models
+- **Alligator Clips:** https://huggingface.co/Ganga008/allegator_place_orange
+- **Battery Placement:** https://huggingface.co/ronantakizawa/battery-placement
+
 ## Approach
 - **Imitation Learning:** Use a leader and follower SO-ARM101 to gather data on movements (Vision, kinetics)
 -  **Training:** Train models using ACT and diffusion with 100k+ steps
