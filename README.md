@@ -30,6 +30,8 @@ Circuit name: Osoyoo Kids Science Lab Learning Kit: https://osoyoo.com/2018/08/2
 - **Space:** 40cm x 40cm
 - **Battery:** AA Batteries 14mm x 50mm
 
+Shoutout Masaki Yoshikawa for the support!
+
 
 
 
