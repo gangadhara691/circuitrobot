@@ -5,7 +5,7 @@ Team: Sandeep Kodam, Gangadhara Naga Sai G, Hildelith Leyser, Ronan Takizawa, Th
 https://github.com/user-attachments/assets/512e074a-11ff-47ae-afe2-5da12c19473f
 
 ## Problem Statement
-Most datasets related to training robots for electronic tasks are proprietary and closed. The confidentiality of datasets limits growth in open-source robotic intelligence.
+Most datasets related to training robots for electronic tasks are proprietary and closed. Proprietary restrictions limit the growth of open-source robotic intelligence.
 
 ## Solution
 We present an open-source dataset to train the SO-ARM100 robotic arm from Huggingface for circuit connection. 
@@ -24,7 +24,7 @@ We present an open-source dataset to train the SO-ARM100 robotic arm from Huggin
 - **Battery Placement:** https://huggingface.co/ronantakizawa/battery-placement
 
 ## Approach
-- **Data Collection:** For battery placement and aligator clip opening, we collected 35 episodes of data, where each episode collected vision and kinetic information from the SO-ARM101
+- **Data Collection:** For battery placement and alligator clip opening, we collected 35 episodes of data, where each episode collected vision and kinetic information from the SO-ARM101
 - **Imitation Learning:** We used a leader and follower SO-ARM101 to gather data on movements using its built-in camera and rotary parts (Vision, Kinetics).
 - **Environment Setup**: For each episode, the arm was placed in a 40 cm x 40cm space.
   - For the battery placement, the battery was 14mm x 50mm, and its center was placed at (30cm, 20cm), and the battery holder was at (10cm, 20cm). The circuit used was called [Osoyoo Kids Science Lab Learning Kit](https://osoyoo.com/2018/08/22/user-manual-of-children-science-lab-learning-kit/). Each object in the item was taped to keep in place.
