@@ -10,7 +10,7 @@ Most datasets related to training robots for electronic tasks are proprietary an
 ## Solution
 We present an open-source dataset to train the SO-ARM100 robotic arm from Huggingface for circuit connection. 
 
-### Features
+## Features
 - **Open Alligator Clips:** Arm picks up and opens alligator clips
 - **Battery Placement:** Arm picks up and drops a AA battery into a power source.
 - **Turn on LED:** Arm connects power to LED lightbulb to switch on
