@@ -1,4 +1,4 @@
-# Circuit Robot: An SO-ARM101 robotic arm trained to build electrical circuits
+# Circuit Robot: An SO-ARM101 Robotic Arm Trained to Build Electrical Circuits
 
 Team: Sandeep Kodam, Gangadhara Naga Sai G, Hildelith Leyser, Ronan Takizawa, Thanh Trung M.
 
