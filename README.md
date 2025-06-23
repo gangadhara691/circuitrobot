@@ -2,7 +2,7 @@
 
 Team: Sandeep Kodam, Gangadhara Naga Sai G, Hildelith Leyser, Ronan Takizawa, Thanh Trung M.
 
-[Placed 1st for Hugging Face robotics hackathon in the Japan region and 4th globally](https://huggingface.co/spaces/LeRobot-worldwide-hackathon/all-winners)
+[Placed 1st for Hugging Face robotics hackathon in the Asia region and 4th globally](https://huggingface.co/spaces/LeRobot-worldwide-hackathon/all-winners)
 
 https://github.com/user-attachments/assets/512e074a-11ff-47ae-afe2-5da12c19473f
 
