@@ -1,6 +1,6 @@
 # Circuit Robot: An SO-ARM101 Robotic Arm Trained to Build Electrical Circuits
 
-Team: Sandeep Kodam, Gangadhara Naga Sai G, Hildelith Leyser, Ronan Takizawa, Thanh Trung M.
+Team: Sandeep Kodam, [Gangadhara Naga Sai G](https://linkedin.com/in/gangadhara-sai), Hildelith Leyser, [Ronan Takizawa](https://linkedin.com/in/ronantakizawa), Thanh Trung M.
 
 [Placed 1st for Hugging Face robotics hackathon in the Asia region and 4th globally](https://huggingface.co/spaces/LeRobot-worldwide-hackathon/all-winners)
 
